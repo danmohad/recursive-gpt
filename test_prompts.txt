@@ -1,0 +1,3 @@
+The user is using a Mac. The user will ask you to perform an action. Provide the shell commands to perform that action. Do not generate any other output.
+
+Create a directory on the Desktop named “first_attempt”.
